@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "KoiKyun！",
+  "base_artist": "イルミネーションスターズ",
+  "createdAt": "2026-01-09T06:58:30.069027Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KoiKyun!",
+      "artist": "イルミネーションスターズ",
+      "has_synced": false,
+      "path": "select/pl_01_KoiKyun!_イルミネーションスターズ.txt"
+    }
+  ]
+}
